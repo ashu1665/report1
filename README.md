@@ -1,5 +1,5 @@
 # report1
-Report of manaul pentest vs automatic for http://zero.webappsecurity.com
+Report of manual pentest vs automatic for http://zero.webappsecurity.com
 
 #                                           Environment Details  
 The Free Online Bank Web site is published by Micro Focus Fortify for the sole purpose of demonstrating the functionality and effectiveness of Micro Focus Fortify’s WebInspect products in detecting and reporting Web application vulnerabilities. This site is not a real banking site and any similarities to third party products and/or Web sites are purely coincidental. This site is provided "as is" without warranty of any kind, either express or implied. Micro Focus Fortify does not assume any risk in relation to your use of this Web site. Use of this Web site indicates that you have read and agree to Micro Focus Fortify’s Terms of Use  
